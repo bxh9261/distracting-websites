@@ -463,7 +463,6 @@
 *.omegle.com
 *.omgubuntu.co.uk
 *.opalstack.social
-*.openai.com
 *.opensea.io
 *.ozy.com
 *.pagesix.com
